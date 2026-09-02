@@ -1,0 +1,10 @@
+{
+  "records": 569,
+  "features": 30,
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "class_distribution": {
+    "B": 357,
+    "M": 212
+  }
+}
