@@ -13,4 +13,6 @@ data/processed/*
 !data/processed/.gitkeep
 models/*
 !models/.gitkeep
+reports/
+docs/
 .DS_Store

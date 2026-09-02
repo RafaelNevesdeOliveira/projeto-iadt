@@ -2,6 +2,10 @@
 
 Projeto da Fase 1 do Tech Challenge para apoio à triagem de risco de câncer de mama. A solução usa dados estruturados de exames para classificar registros como benignos ou malignos. O sistema é educacional e de suporte à decisão: não produz diagnóstico clínico e não substitui profissionais de saúde.
 
+## Repositório
+
+https://github.com/RafaelNevesdeOliveira/projeto-iadt
+
 ## Grupo
 
 - Grupo 20
@@ -124,11 +128,6 @@ iadt-ml train --dataset data/raw/breast_cancer.csv --output models/modelo_final.
 pytest
 ruff check .
 ```
-
-## Próximas entregas
-
-- Gravação do vídeo de demonstração de até 15 minutos.
-- Interface Streamlit para demonstração, caso agregue à apresentação.
 
 ## Resultados reproduzidos
 
